@@ -1,3 +1,7 @@
+# live page
+view live page at following URL: https://gigagiorgadze.github.io/FAQ-accordion-card/
+
+
 # Frontend Mentor - FAQ accordion card
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
