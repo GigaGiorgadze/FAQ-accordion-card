@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Frontend Mentor - FAQ accordion card solution
+=======
+# live page
+view live page at following URL: https://gigagiorgadze.github.io/FAQ-accordion-card/
+
+
+# Frontend Mentor - FAQ accordion card
+>>>>>>> 3b03b3ee24b1f7b1c456a58bb17766084c24993f
 
 This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
