@@ -55,5 +55,24 @@ i wanna try focusing on aligning items correctly and learn how to make one image
 
 - Frontend Mentor - [@GigaGiorgadze](https://www.frontendmentor.io/profile/GigaGiorgadzeme)
 - Twitter - [@giorgadze](https://twitter.com/giorgadze_11)
+  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
